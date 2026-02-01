@@ -1,0 +1,333 @@
+==============================
+✅ FEVER
+==============================
+Fever is a temporary rise in body temperature, usually caused by infection.
+Home Care:
+- Rest and drink fluids
+- Paracetamol for mild fever
+See Doctor If:
+- Fever lasts >3 days
+- Temperature >102°F
+- Severe weakness or breathing issues
+
+==============================
+✅ COMMON COLD
+==============================
+The common cold is a viral infection of the nose and throat.
+Symptoms:
+- Sneezing, runny nose, mild sore throat
+Care:
+- Warm fluids, steam inhalation, rest
+Doctor If:
+- Symptoms persist >10 days or high fever develops
+
+==============================
+✅ COUGH
+==============================
+Cough may be due to viral infection, allergies, or irritation.
+Care:
+- Honey with warm water, avoid smoke
+Doctor If:
+- Blood in cough, lasts >2 weeks, chest pain
+
+==============================
+✅ HEADACHE
+==============================
+Headache may occur due to stress, dehydration, lack of sleep, or viral illness.
+Care:
+- Hydration, rest, reduce screen use
+Urgent If:
+- Sudden severe headache or vision problems
+
+==============================
+✅ MIGRAINE
+==============================
+Migraine is a type of headache with nausea and light sensitivity.
+Care:
+- Rest in dark room, hydrate
+Doctor If:
+- Frequent severe attacks
+
+==============================
+✅ SORE THROAT
+==============================
+Sore throat is often caused by viral infection.
+Care:
+- Warm salt water gargle, warm fluids
+Doctor If:
+- Difficulty swallowing, high fever, lasts >1 week
+
+==============================
+✅ ALLERGIES
+==============================
+Allergies occur due to immune reaction to pollen, dust, foods.
+Symptoms:
+- Sneezing, itching, watery eyes
+Care:
+- Avoid triggers, antihistamines if prescribed
+
+==============================
+✅ ASTHMA
+==============================
+Asthma is chronic airway inflammation causing wheezing.
+Care:
+- Avoid dust/smoke triggers, use inhalers
+Emergency If:
+- Severe breathing difficulty
+
+==============================
+✅ BRONCHITIS
+==============================
+Bronchitis is inflammation of airways, often after infection.
+Care:
+- Rest, fluids, avoid smoking
+Doctor If:
+- Persistent cough or fever
+
+==============================
+✅ PNEUMONIA
+==============================
+Pneumonia is lung infection causing cough, fever, breathing difficulty.
+Doctor Care Required Always.
+
+==============================
+✅ DIARRHEA
+==============================
+Diarrhea is loose stools, often due to infection or food intolerance.
+Care:
+- ORS solution, hydration
+Doctor If:
+- Blood in stool or severe dehydration
+
+==============================
+✅ CONSTIPATION
+==============================
+Constipation is difficulty passing stools.
+Care:
+- Fiber-rich diet, water, physical activity
+Doctor If:
+- Severe abdominal pain
+
+==============================
+✅ FOOD POISONING
+==============================
+Food poisoning results from contaminated food/water.
+Care:
+- ORS, light diet
+Doctor If:
+- Persistent vomiting or blood in stool
+
+==============================
+✅ ACIDITY (GERD)
+==============================
+GERD is acid reflux causing heartburn.
+Care:
+- Avoid spicy foods, eat small meals
+Doctor If:
+- Frequent severe symptoms
+
+==============================
+✅ STOMACH ULCER
+==============================
+Ulcers are sores in stomach lining.
+Symptoms:
+- Burning stomach pain
+Doctor consultation required.
+
+==============================
+✅ DIABETES
+==============================
+Diabetes is high blood sugar due to insulin problems.
+Symptoms:
+- Thirst, frequent urination, fatigue
+Care:
+- Healthy diet, exercise, medical monitoring
+
+==============================
+✅ HYPERTENSION
+==============================
+High blood pressure increases risk of heart disease.
+Care:
+- Reduce salt, exercise, manage stress
+Doctor monitoring essential
+
+==============================
+✅ HIGH CHOLESTEROL
+==============================
+Cholesterol buildup increases heart risk.
+Care:
+- Low-fat diet, exercise, medical advice
+
+==============================
+✅ HEART ATTACK (EMERGENCY)
+==============================
+Warning Signs:
+- Chest pain radiating to arm/jaw, sweating
+Action:
+🚨 Call emergency services immediately
+
+==============================
+✅ STROKE (EMERGENCY)
+==============================
+Signs:
+- Face droop, arm weakness, speech difficulty
+Action:
+🚨 Emergency hospital care immediately
+
+==============================
+✅ ANEMIA
+==============================
+Anemia is low red blood cells causing fatigue and weakness.
+Care:
+- Iron-rich diet, supplements if prescribed
+
+==============================
+✅ DENGUE
+==============================
+Dengue is mosquito-borne viral illness.
+Symptoms:
+- High fever, body pain, rash
+Doctor Care Required.
+
+==============================
+✅ MALARIA
+==============================
+Malaria is mosquito-borne fever illness.
+Doctor Care Required Always.
+
+==============================
+✅ COVID-19
+==============================
+COVID-19 is viral respiratory illness.
+Symptoms:
+- Fever, cough, tiredness
+Care:
+- Rest, isolation, doctor if severe breathing trouble
+
+==============================
+✅ TUBERCULOSIS (TB)
+==============================
+TB is lung infection causing chronic cough, weight loss.
+Doctor Care Required.
+
+==============================
+✅ SKIN RASH
+==============================
+Rash may be due to allergy or infection.
+Care:
+- Avoid irritants, consult doctor if spreading
+
+==============================
+✅ ECZEMA
+==============================
+Eczema causes dry itchy skin.
+Care:
+- Moisturizers, avoid triggers
+
+==============================
+✅ ACNE
+==============================
+Acne is blockage of skin pores.
+Care:
+- Gentle cleansing, avoid squeezing
+
+==============================
+✅ URINARY TRACT INFECTION (UTI)
+==============================
+UTI causes burning urination and frequent urge.
+Care:
+- Drink water
+Doctor consultation needed for antibiotics
+
+==============================
+✅ KIDNEY STONES
+==============================
+Stones cause severe side pain and blood in urine.
+Doctor Care Required.
+
+==============================
+✅ ARTHRITIS
+==============================
+Joint inflammation causing pain and stiffness.
+Care:
+- Exercise, anti-inflammatory treatment by doctor
+
+==============================
+✅ BACK PAIN
+==============================
+Often due to posture or muscle strain.
+Care:
+- Rest, stretching, hot/cold packs
+Doctor If:
+- Severe persistent pain
+
+==============================
+✅ DEPRESSION
+==============================
+Mental health condition causing sadness and loss of interest.
+Doctor/therapy support important.
+
+==============================
+✅ ANXIETY
+==============================
+Anxiety causes excessive worry, palpitations.
+Care:
+- Relaxation, counseling if severe
+
+==============================
+✅ INSOMNIA
+==============================
+Difficulty sleeping.
+Care:
+- Sleep routine, avoid screens at night
+
+==============================
+✅ OBESITY
+==============================
+Excess weight increases chronic disease risk.
+Care:
+- Balanced diet, exercise, medical guidance
+
+==============================
+✅ WEIGHT LOSS (UNEXPLAINED)
+==============================
+May indicate serious illness.
+Doctor evaluation required.
+
+==============================
+✅ VITAMIN D DEFICIENCY
+==============================
+Causes fatigue and bone pain.
+Care:
+- Sunlight exposure, supplements if prescribed
+
+==============================
+✅ DEHYDRATION
+==============================
+Lack of fluids causing dizziness and weakness.
+Care:
+- Drink water/ORS
+
+==============================
+✅ FIRST AID FOR BURNS
+==============================
+Care:
+- Cool burn under running water
+- Cover with clean cloth
+Doctor If:
+- Large or deep burns
+
+==============================
+✅ FIRST AID FOR CUTS
+==============================
+Care:
+- Wash wound, apply pressure, cover with bandage
+Doctor If:
+- Deep wound or uncontrolled bleeding
+
+==============================
+✅ DISCLAIMER
+==============================
+This chatbot provides general health education only.
+It does not diagnose diseases or replace professional care.
+Always consult a certified doctor if symptoms are serious.
